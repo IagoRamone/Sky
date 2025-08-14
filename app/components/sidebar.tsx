@@ -1,0 +1,20 @@
+export default function Sidebar(){
+    return(
+        <div>
+            <ul>
+                <li>
+                    Home
+                </li>
+                <li>
+                    Colaboradores
+                </li>
+                <li>
+                    Desempenho
+                </li>
+                <li>
+                    Conta
+                </li>
+            </ul>
+        </div>
+    )
+}
